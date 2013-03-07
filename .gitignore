@@ -1,0 +1,10 @@
+tmp
+*.class
+*.pyc
+*.pyo
+*.log
+*.settings
+bin/
+obj/
+libs/
+gen/
